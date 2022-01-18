@@ -1,1 +1,58 @@
 
+{
+"squadeName" :"DC comics",
+"homeTown" :"Batman",
+"miembros" :[ 
+{
+	"Nombre personaje" :"Harley Quinn",
+	"Nombre real" :"Harleen Frances Quinzel",
+	"Nacimiento" :"12 de Septiembre de 1985"
+	"Poderes" : [
+	"Inteligencia sobrehumana", 
+	"Inmunidad toxicologica"
+	]
+	"Habilidades" :[
+	"Agilidad", 
+	"Acrobacia experta"
+	]
+	"Enemigos" :"Batifamilia"
+	},
+{
+	"Nombre personaje" :"Guason",
+	"Nombre real" :"Jack Napier",
+	"Nacimiento" :"Desconocido"
+	"Poderes" : [
+	"Experto en Combate", 
+	"Inmunidad toxicologica"
+	]
+	"Habilidades" :[
+	"Manipulación", 
+	"Resistencia extraordinaria"
+	]
+	"Enemigos" :[
+	"Batifamilia",
+	"Riddler",
+	"Superman"
+	]
+	},
+{
+	"Nombre personaje" :"Batman",
+	"Nombre real" :"Bruce Wayne",
+	"Nacimiento" :"27 de Mayo de 1939"
+	"Poderes" : "Sin poderes",
+	"Habilidades" :[
+	"Habilidades como detective", 
+	"Uso de equipamiento, dispositivos y armamento de alta tecnología.",
+	"Intelecto nivel genio"
+	]
+	"Enemigos" :[
+	"Joker",
+	"Dos caras",
+	"Espanta pajaros",
+	"Harley Quinn",
+	"El pingüino",
+	"Ra´s Al Ghul"
+	]
+	}
+]
+}
